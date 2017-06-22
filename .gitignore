@@ -1,0 +1,6 @@
+
+project_support/
+__pycache__
+MNIST_data/
+.DS_Store
+.ipynb_checkpoints/
